@@ -2,7 +2,9 @@
 
 > _!@#$... I'm becoming dumb incarnate._ — Me, October 31, 2026
 
-This repository serves as a vault for my personal LeetCode solutions in an attempt to reduce the brainrot I have incurred from using AI agents. Not utilizing AI agents will only leave one behind. They are too useful to pass up. By constantly solving LeetCode problems day-to-day, I can keep my coding and reasoning skills sharp.
+This repository serves as a vault for my personal LeetCode solutions in an attempt to reduce the brainrot I have incurred from using AI agents. 
+
+Not utilizing AI agents will only leave one behind, particularly in my research laboratory. They are too useful to pass up. By constantly solving LeetCode problems day-to-day, I can keep my coding and reasoning skills sharp.
 
 ## [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
