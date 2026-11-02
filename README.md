@@ -8,21 +8,21 @@ This repository serves as a vault for my personal LeetCode solutions in an attem
 
 | No. | Difficulty | Solution | Progress |
 | --- | --- | --- | :---: |
-| [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/ "Recyclable and Low Fat Products") | ![Easy][easy] | [SQL50/1757](SQL50/1757/) | ✅ |
-| [584](https://leetcode.com/problems/find-customer-referee/ "Find Customer Referee") | ![Easy][easy] | [SQL50/584](SQL50/584/) | ✅ |
-| [595](https://leetcode.com/problems/big-countries/ "Big Countries") | ![Easy][easy] | [SQL50/595](SQL50/595/) |  |
-| [1148](https://leetcode.com/problems/article-views-i/ "Article Views I") | ![Easy][easy] | [SQL50/1148](SQL50/1148/) | ✅ |
-| [1683](https://leetcode.com/problems/invalid-tweets/ "Invalid Tweets") | ![Easy][easy] | [SQL50/1683](SQL50/1683/) | ✅ |
-| [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/ "Replace Employee ID With The Unique Identifier") | ![Easy][easy] | [SQL50/1378](SQL50/1378/) | ✅ |
-| [1068](https://leetcode.com/problems/product-sales-analysis-i/ "Product Sales Analysis I") | ![Easy][easy] | [SQL50/1068](SQL50/1068/) | ✅ |
-| [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/ "Customer Who Visited but Did Not Make Any Transactions") | ![Easy][easy] | [SQL50/1581](SQL50/1581/) | ✅ |
-| [197](https://leetcode.com/problems/rising-temperature/ "Rising Temperature") | ![Easy][easy] | [SQL50/197](SQL50/197/) | ✅ |
-| [1661](https://leetcode.com/problems/average-time-of-process-per-machine/ "Average Time of Process per Machine") | ![Easy][easy] | [SQL50/1661](SQL50/1661/) | ✅ |
-| [577](https://leetcode.com/problems/employee-bonus/ "Employee Bonus") | ![Easy][easy] | [SQL50/577](SQL50/577/) | ✅ |
-| [1280](https://leetcode.com/problems/students-and-examinations/ "Students and Examinations") | ![Easy][easy] | [SQL50/1280](SQL50/1280/) | ✅ |
-| [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/ "Managers with at Least 5 Direct Reports") | ![Medium][medium] | [SQL50/570](SQL50/570/) | ✅ |
-| [1934](https://leetcode.com/problems/confirmation-rate/ "Confirmation Rate") | ![Medium][medium] | [SQL50/1934](SQL50/1934/) | ✅ |
-| [620](https://leetcode.com/problems/not-boring-movies/ "Not Boring Movies") | ![Easy][easy] | [SQL50/620](SQL50/620/) | ✅ |
+| [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/ "Recyclable and Low Fat Products") | ![Easy][easy] | [1757](SQL50/1757/) | ✅ |
+| [584](https://leetcode.com/problems/find-customer-referee/ "Find Customer Referee") | ![Easy][easy] | [584](SQL50/584/) | ✅ |
+| [595](https://leetcode.com/problems/big-countries/ "Big Countries") | ![Easy][easy] | [595](SQL50/595/) |  |
+| [1148](https://leetcode.com/problems/article-views-i/ "Article Views I") | ![Easy][easy] | [1148](SQL50/1148/) | ✅ |
+| [1683](https://leetcode.com/problems/invalid-tweets/ "Invalid Tweets") | ![Easy][easy] | [1683](SQL50/1683/) | ✅ |
+| [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/ "Replace Employee ID With The Unique Identifier") | ![Easy][easy] | [1378](SQL50/1378/) | ✅ |
+| [1068](https://leetcode.com/problems/product-sales-analysis-i/ "Product Sales Analysis I") | ![Easy][easy] | [1068](SQL50/1068/) | ✅ |
+| [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/ "Customer Who Visited but Did Not Make Any Transactions") | ![Easy][easy] | [1581](SQL50/1581/) | ✅ |
+| [197](https://leetcode.com/problems/rising-temperature/ "Rising Temperature") | ![Easy][easy] | [197](SQL50/197/) | ✅ |
+| [1661](https://leetcode.com/problems/average-time-of-process-per-machine/ "Average Time of Process per Machine") | ![Easy][easy] | [1661](SQL50/1661/) | ✅ |
+| [577](https://leetcode.com/problems/employee-bonus/ "Employee Bonus") | ![Easy][easy] | [577](SQL50/577/) | ✅ |
+| [1280](https://leetcode.com/problems/students-and-examinations/ "Students and Examinations") | ![Easy][easy] | [1280](SQL50/1280/) | ✅ |
+| [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/ "Managers with at Least 5 Direct Reports") | ![Medium][medium] | [570](SQL50/570/) | ✅ |
+| [1934](https://leetcode.com/problems/confirmation-rate/ "Confirmation Rate") | ![Medium][medium] | [1934](SQL50/1934/) | ✅ |
+| [620](https://leetcode.com/problems/not-boring-movies/ "Not Boring Movies") | ![Easy][easy] | [620](SQL50/620/) | ✅ |
 | [1251](https://leetcode.com/problems/average-selling-price/ "Average Selling Price") | ![Easy][easy] |  |  |
 | [1075](https://leetcode.com/problems/project-employees-i/ "Project Employees I") | ![Easy][easy] |  |  |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/ "Percentage of Users Attended a Contest") | ![Easy][easy] |  |  |
@@ -63,8 +63,8 @@ This repository serves as a vault for my personal LeetCode solutions in an attem
 
 | No. | Difficulty | Solution | Progress |
 | --- | --- | --- | :---: |
-| [1768](https://leetcode.com/problems/merge-strings-alternately/ "Merge Strings Alternately") | ![Easy][easy] | [LeetCode75/1768](LeetCode75/1768/) | ✅ |
-| [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "Greatest Common Divisor of Strings") | ![Easy][easy] | [LeetCode75/1071](LeetCode75/1071/) |  |
+| [1768](https://leetcode.com/problems/merge-strings-alternately/ "Merge Strings Alternately") | ![Easy][easy] | [1768](LeetCode75/1768/) | ✅ |
+| [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "Greatest Common Divisor of Strings") | ![Easy][easy] | [1071](LeetCode75/1071/) |  |
 | [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ "Kids With the Greatest Number of Candies") | ![Easy][easy] |  |  |
 | [605](https://leetcode.com/problems/can-place-flowers/ "Can Place Flowers") | ![Easy][easy] |  |  |
 | [345](https://leetcode.com/problems/reverse-vowels-of-a-string/ "Reverse Vowels of a String") | ![Easy][easy] |  |  |
