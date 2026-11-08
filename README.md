@@ -145,6 +145,6 @@ Study plan: [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 | [901](https://leetcode.com/problems/online-stock-span/ "Online Stock Span") | ![Medium][medium] |  |  |
 
 
-[easy]: https://img.shields.io/badge/Easy-00B8A3
-[medium]: https://img.shields.io/badge/Medium-FFC01E
-[hard]: https://img.shields.io/badge/Hard-FF375F
+[easy]: https://img.shields.io/badge/Easy-00B8A3?style=flat-square
+[medium]: https://img.shields.io/badge/Medium-FFC01E?style=flat-square
+[hard]: https://img.shields.io/badge/Hard-FF375F?style=flat-square
