@@ -2,17 +2,19 @@
 
 > _!@#$... I'm becoming dumb incarnate._ — Me, October 31, 2026
 
-This repository serves as a vault for my personal LeetCode solutions in an attempt to reduce the brainrot I have incurred from using AI agents. 
+I do LeetCode to eradicate brainrot.
 
-Not utilizing AI agents will only leave one behind, particularly in my research laboratory. They are too useful to pass up. By constantly solving LeetCode problems day-to-day, I can keep my coding and reasoning skills sharp.
+---
 
-## [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+## SQL 50
+
+Study plan: [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 | No. | Difficulty | Solution | Progress |
-| --- | --- | --- | :---: |
+| :---: | :---: | :---: | :---: |
 | [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/ "Recyclable and Low Fat Products") | ![Easy][easy] | [1757](SQL50/1757/) | ✅ |
 | [584](https://leetcode.com/problems/find-customer-referee/ "Find Customer Referee") | ![Easy][easy] | [584](SQL50/584/) | ✅ |
-| [595](https://leetcode.com/problems/big-countries/ "Big Countries") | ![Easy][easy] | [595](SQL50/595/) |  |
+| [595](https://leetcode.com/problems/big-countries/ "Big Countries") | ![Easy][easy] | [595](SQL50/595/) | ✅ |
 | [1148](https://leetcode.com/problems/article-views-i/ "Article Views I") | ![Easy][easy] | [1148](SQL50/1148/) | ✅ |
 | [1683](https://leetcode.com/problems/invalid-tweets/ "Invalid Tweets") | ![Easy][easy] | [1683](SQL50/1683/) | ✅ |
 | [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/ "Replace Employee ID With The Unique Identifier") | ![Easy][easy] | [1378](SQL50/1378/) | ✅ |
@@ -25,7 +27,7 @@ Not utilizing AI agents will only leave one behind, particularly in my research 
 | [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/ "Managers with at Least 5 Direct Reports") | ![Medium][medium] | [570](SQL50/570/) | ✅ |
 | [1934](https://leetcode.com/problems/confirmation-rate/ "Confirmation Rate") | ![Medium][medium] | [1934](SQL50/1934/) | ✅ |
 | [620](https://leetcode.com/problems/not-boring-movies/ "Not Boring Movies") | ![Easy][easy] | [620](SQL50/620/) | ✅ |
-| [1251](https://leetcode.com/problems/average-selling-price/ "Average Selling Price") | ![Easy][easy] |  |  |
+| [1251](https://leetcode.com/problems/average-selling-price/ "Average Selling Price") | ![Easy][easy] | [1251](SQL50/1251/) | ✅ |
 | [1075](https://leetcode.com/problems/project-employees-i/ "Project Employees I") | ![Easy][easy] |  |  |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/ "Percentage of Users Attended a Contest") | ![Easy][easy] |  |  |
 | [1211](https://leetcode.com/problems/queries-quality-and-percentage/ "Queries Quality and Percentage") | ![Easy][easy] |  |  |
@@ -61,10 +63,15 @@ Not utilizing AI agents will only leave one behind, particularly in my research 
 | [1327](https://leetcode.com/problems/list-the-products-ordered-in-a-period/ "List the Products Ordered in a Period") | ![Easy][easy] |  |  |
 | [1517](https://leetcode.com/problems/find-users-with-valid-e-mails/ "Find Users With Valid E-Mails") | ![Easy][easy] |  |  |
 
-## [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+
+---
+
+## LeetCode 75
+
+Study plan: [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 
 | No. | Difficulty | Solution | Progress |
-| --- | --- | --- | :---: |
+| :---: | :---: | :---: | :---: |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/ "Merge Strings Alternately") | ![Easy][easy] | [1768](LeetCode75/1768/) | ✅ |
 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "Greatest Common Divisor of Strings") | ![Easy][easy] | [1071](LeetCode75/1071/) |  |
 | [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ "Kids With the Greatest Number of Candies") | ![Easy][easy] |  |  |
@@ -140,6 +147,7 @@ Not utilizing AI agents will only leave one behind, particularly in my research 
 | [452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ "Minimum Number of Arrows to Burst Balloons") | ![Medium][medium] |  |  |
 | [739](https://leetcode.com/problems/daily-temperatures/ "Daily Temperatures") | ![Medium][medium] |  |  |
 | [901](https://leetcode.com/problems/online-stock-span/ "Online Stock Span") | ![Medium][medium] |  |  |
+
 
 [easy]: https://img.shields.io/badge/Easy-00B8A3
 [medium]: https://img.shields.io/badge/Medium-FFC01E
