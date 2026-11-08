@@ -4,8 +4,6 @@
 
 I do LeetCode to eradicate brainrot.
 
----
-
 ## SQL 50
 
 Study plan: [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -63,8 +61,6 @@ Study plan: [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 | [1327](https://leetcode.com/problems/list-the-products-ordered-in-a-period/ "List the Products Ordered in a Period") | ![Easy][easy] |  |  |
 | [1517](https://leetcode.com/problems/find-users-with-valid-e-mails/ "Find Users With Valid E-Mails") | ![Easy][easy] |  |  |
 
-
----
 
 ## LeetCode 75
 
