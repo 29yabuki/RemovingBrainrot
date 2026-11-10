@@ -26,8 +26,8 @@ Study plan: [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 | [1934](https://leetcode.com/problems/confirmation-rate/ "Confirmation Rate") | ![Medium][medium] | [1934](SQL50/1934/) | ✅ |
 | [620](https://leetcode.com/problems/not-boring-movies/ "Not Boring Movies") | ![Easy][easy] | [620](SQL50/620/) | ✅ |
 | [1251](https://leetcode.com/problems/average-selling-price/ "Average Selling Price") | ![Easy][easy] | [1251](SQL50/1251/) | ✅ |
-| [1075](https://leetcode.com/problems/project-employees-i/ "Project Employees I") | ![Easy][easy] |  |  |
-| [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/ "Percentage of Users Attended a Contest") | ![Easy][easy] |  |  |
+| [1075](https://leetcode.com/problems/project-employees-i/ "Project Employees I") | ![Easy][easy] | [1075](SQL50/1075/) | ✅ |
+| [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/ "Percentage of Users Attended a Contest") | ![Easy][easy] | [1633](SQL50/1633/) | ✅ |
 | [1211](https://leetcode.com/problems/queries-quality-and-percentage/ "Queries Quality and Percentage") | ![Easy][easy] |  |  |
 | [1193](https://leetcode.com/problems/monthly-transactions-i/ "Monthly Transactions I") | ![Medium][medium] |  |  |
 | [1174](https://leetcode.com/problems/immediate-food-delivery-ii/ "Immediate Food Delivery II") | ![Medium][medium] |  |  |
